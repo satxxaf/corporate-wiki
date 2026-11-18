@@ -61,6 +61,3 @@ replay_pid*
 *.zip
 *.tar.gz
 *.rar
-
-# Secrets
-.env
